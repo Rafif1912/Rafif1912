@@ -21,7 +21,6 @@ Role     : IT Programmer
 Company  : PT. Pulau Sambu Group (Guntung)
 Location : Sungai Guntung, Riau, Indonesia 🇮🇩
 Focus    : Flutter Web · ASP.NET Core · IoT/MQTT
-Hobbies  : Gaming 🎮 · PC Hardware 🖥️ · MotoGP 🏍️
 ```
 
 ---
