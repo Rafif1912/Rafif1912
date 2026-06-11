@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Rafif%20Rizki%20Aminoto&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=IT%20Programmer%20%7C%20Flutter%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20IoT&descAlignY=60&descColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Rafif+Rizki+Aminoto;💻+IT+Programmer+%40+PT.+Pulau+Sambu+Group;🚀+Flutter+Web+%7C+ASP.NET+Core+%7C+IoT%2FMQTT;🌱+Always+learning+new+things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Rafif+Rizki+Aminoto!;💻+IT+Programmer+%40+PT.+Pulau+Sambu+Group;🚀+Flutter+Web+%7C+ASP.NET+Core+%7C+IoT%2FMQTT;🌱+Always+learning+new+things!" alt="Typing SVG" />
 
 <br/>
 
