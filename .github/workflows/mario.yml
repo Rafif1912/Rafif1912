@@ -1,0 +1,22 @@
+name: Generate Mario
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Rafif1912
+          template: classic
+          base: ""
+          plugin_mario: yes
+          plugin_mario_user: Rafif1912
+          filename: mario.svg
